@@ -1,4 +1,5 @@
 class ganesh {
 
    publit static void
-      system.out.print 
+      system.out.print
+     system.out.pint{a}a 
